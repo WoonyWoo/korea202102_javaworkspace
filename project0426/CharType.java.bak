@@ -1,0 +1,7 @@
+/*자바의 기본 자료형 중 문자 자료형에 대해 학습한다*/
+class CharType{
+	public static void main(String[] args){
+		char c1='A';
+		char c2=65;
+	}
+}

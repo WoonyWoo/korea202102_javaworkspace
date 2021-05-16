@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"animal.birds","c":"Duck","l":"canSwim()"},{"p":"animal.birds","c":"Duck","l":"Duck(String)","url":"%3Cinit%3E(java.lang.String)"}]
